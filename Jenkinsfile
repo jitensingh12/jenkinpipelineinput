@@ -12,7 +12,7 @@ node {
     }
     stage('Tests') {
         echo 'hello test'
-        sh 'javaa test'
+        //sh 'javaa test'
     }    
 }
 // Kill Agent
